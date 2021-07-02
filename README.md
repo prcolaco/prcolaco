@@ -1,32 +1,14 @@
-# Hello there 👋
+# Hi, I'm Pedro, or prc in cyberland! 👋
 
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+![](https://github.com/prcolaco/prcolaco/blob/master/icons/header_.png)
 
-I make elegantly professional **💻 Distributed Systems, 📱 iOS apps and 🌐 Website** for a living and also **Write some blogs**. 🌈    
+I build **Decentralized Systems**, **Blockchains** and **Smart Contracts** professionally...
 
-* 🧐   Interested in full stack. Recent focus on backend.
-* 💼   Senior Back End Engineer at Alibaba Group.
-* 🎓   Bachelor of Engineering in Computer Science and Engineering, Major GPA 3.90/4.0, GPA 3.75/4.0, TOP 3%.
-* 🌱   Currently learning Math & Philosophy.
-* 📚   Reading more about Apple, Harry Potter and how the computer works.
-* 💻   With 4 years' computer science and technology education and 5 years' development working experience.
-* ⛵   Encouraging people for open source collaborations.
-* ✍🏻   I write my personal thoughts on Programming & Tech in my [Personal Blog](https://halfrost.com/)(Cumulative 5.37 million PV / 2.18 million UV).
-
-<details>
-  <summary>Some other achievements about me~e~e</summary>
-  <br>
-
-* 🎉   Professional Membership of ACM / IEEE / IEEE-CS / CCF.
-* 🍎   Apple Developer.👨🏻‍💻 & Apple Teacher.🤪
-
-<p align="center">
-<a href= "https://img.halfrost.com/certificate/ACM_memcert0104000A02030A_00.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/ACM.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_MEMIEEE500_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE.png" height="100" width="100"/></a>
-<a href= "https://img.halfrost.com/certificate/IEEE_CS_MEMC016_97002879_2021.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/IEEE-CS.png" height="100" width="100"/></a>
-<img src="https://github.com/halfrost/halfrost/blob/master/icons/CCF.png" height="100" width="100"/>
-<a href= "https://img.halfrost.com/certificate/AppleTeacher.pdf"><img src="https://github.com/halfrost/halfrost/blob/master/icons/APPLE.png" height="100" width="100"/></a>
-</p>
+* 🧐   Interested in decentralizing Planet Earth...
+* 💼   Senior Blockchain Developer at a blockchain near you...
+* 🌱   Currently learning how the world works, but not very impressed...
+* 📚   Reading more about Economy, Investing, Decentralized Finance...
+* 💻   With +30 years of professional software development experience...
 
 * 👑   Some GitHub statistical reports:
 
