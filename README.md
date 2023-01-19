@@ -13,9 +13,9 @@ I build **Decentralized Systems**, **Blockchains** and **Smart Contracts** profe
 * 👑   Some GitHub statistical reports:
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prcolaco&hide_langs_below=1&theme=dark&line_height=27&layout=compact" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prcolaco&hide_langs_below=1&theme=dark&line_height=27&layout=compact" />
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=prcolaco&theme=dark&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="prcolaco's Github Stats" />
-<br><br>
+<br><br> -->
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=prcolaco&column=7" alt="prcolaco's Github Trophy" />
 </p>
 
