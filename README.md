@@ -1,6 +1,6 @@
 ![](https://github.com/prcolaco/prcolaco/blob/main/images/github-header-banner.png)
 
 <p align="center">
-  <i>Take a look at my repositories and let's get in touch!</i>
+  <i>If you need help with AI Strategy, let's get in touch!</i>
 </p>
 
